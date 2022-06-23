@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjana-ayshi
 - 👀 I’m interested in Web development, game development
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on wprojects and works
+- 💞️ I’m looking to collaborate on projects and works
 - 📫 email me : sanjana.ayshi.ash@gmaail.com or linkedin: https://www.linkedin.com/in/sanjana-ayshi/
 
 <!---
